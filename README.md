@@ -1,2 +1,2 @@
-# python-mp3-to-mic
-Play a mp3 file via microphone using vb-audio
+# Python mp3 to microphone
+**Play a mp3 file via microphone using [vb-audio](https://vb-audio.com/Cable/)**
